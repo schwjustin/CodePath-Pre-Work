@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/schwjustin/CodePath-Pre-Work/blob/main/walkthrough.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/schwjustin/CodePath-Pre-Work/blob/main/walkthrough.gif?raw=true' title='Video Walkthrough' width='320px' alt='Video Walkthrough' />
 
 ## License
 
